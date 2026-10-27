@@ -31,7 +31,6 @@ A typical data pipeline includes these stages:
 6. Analytics and Visualization
 7. Business Insights and Decisions
 
-**Data flow diagram:** Create an original diagram showing these seven stages, using Canva, PowerPoint, or diagrams.net, and insert the exported image into your published LinkedIn article.
 
 ## 2. Why Do Businesses Need Data Engineering?
 
