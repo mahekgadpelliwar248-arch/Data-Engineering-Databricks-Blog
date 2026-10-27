@@ -55,6 +55,8 @@ A reliable data pipeline helps organize these records so that the business can u
 Data Engineers and Data Analysts work together, but their main responsibilities are different.
 
 A Data Engineer focuses on preparing and delivering reliable data. A Data Analyst uses that data to answer business questions and communicate insights.
+(From Data to Business Insights.png)
+
 
 | Comparison | Data Engineer | Data Analyst |
 |---|---|---|
